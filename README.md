@@ -36,8 +36,8 @@ Finally
 
 To run this project, install the following dependencies:
 
-pip install transformers spacy torch
-python -m spacy download en_core_web_sm
+    pip install transformers spacy torch
+    python -m spacy download en_core_web_sm
 
 Usage
 
