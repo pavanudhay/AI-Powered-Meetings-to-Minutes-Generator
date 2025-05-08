@@ -5,7 +5,7 @@ This project helps automatically generate and format meeting minutes from raw me
 
 Features
 
-Extracting:
+Extracting
 
       Attendees
 
